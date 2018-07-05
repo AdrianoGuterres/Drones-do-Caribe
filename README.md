@@ -1,8 +1,8 @@
 # Drones-do-Caribe
 This is an exercise proposed by Aceleradora de Metodologias Ágeis.
 
-                       ===================================
-                                Drones do Caribe
+                                               ===================================
+                                                        Drones do Caribe
   Um grupo de drones está prestes a desembarcar em uma ilha desconhecida. Esta
 ilha, a qual é curiosamente retangular, deve ser explorada por estes drones para que suas
 câmeras on-board possam mapear a vista do terreno que os envolve e enviar as imagens
