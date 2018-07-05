@@ -29,7 +29,7 @@ explorar a ilha.
   A posição consiste de dois números inteiros e de uma letra, separados por espaços
 em branco, correspondendo às coordenadas X e Y e a orientação do drone.
 Cada drone explorador finalizará a tarefa de forma sequencial, ou seja, o segundo
-drone só irá se mover após o primeiro já ter completado sua tarefa
+drone só irá se mover após o primeiro já ter completado sua tarefa.
 
 SAÍDA ESPERADA
   A saída para cada drone deve ser sua coordenada final e a orientação para onde
